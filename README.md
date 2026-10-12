@@ -1,7 +1,6 @@
 # 💜 BTS: The Quantum Leap | Predictive Engineering Audit
 
 **Team:** Aruna Giri, Jane Manalu, KJ Moses  
-**Course:** Data Bootcamp Midterm  
 **Date:** March 2026
 
 ---
